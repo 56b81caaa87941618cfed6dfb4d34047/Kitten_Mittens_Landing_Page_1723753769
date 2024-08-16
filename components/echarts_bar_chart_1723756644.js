@@ -1,6 +1,6 @@
 Vue.component('echarts_bar_chart_1723756644', {
     template: `
-        <div class="flex justify-center items-center min-h-screen bg-gray-100">
+        <div class="flex justify-center items-center min-h-screen bg-cover bg-center" style="background-image: url('https://source.unsplash.com/random/1920x1080/?pink,nebula');">
             <div class="bg-white shadow-lg rounded-lg p-8 m-4 max-w-sm w-full">
                 <h2 class="text-2xl font-bold mb-6 text-center">Node Operator Signup</h2>
                 <form @submit.prevent="submitForm" class="space-y-4">
