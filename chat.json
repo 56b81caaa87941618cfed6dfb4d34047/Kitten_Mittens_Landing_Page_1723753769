@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Form for Node Operator Signup\", \"checked\": true}, {\"feature\": \"Input fields for personal and contact information\", \"checked\": true}, {\"feature\": \"Input field for stake amount with validation\", \"checked\": true}, {\"feature\": \"Submit button with loading state\", \"checked\": false}, {\"feature\": \"Success message upon form submission\", \"checked\": false}, {\"feature\": \"Field for uploading KYC documentation\", \"checked\": false}], \"input_token_count\": 222, \"output_token_count\": 96, \"time_taken\": \"0:00:03.470221\"}",
+        "message_id": "guest16082024184707",
+        "timestamp": "16082024184710",
+        "component_file_name": "echarts_bar_chart_1723756644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged. We will create a form for node operator signup and stake submission.",
         "message_id": "guest16082024184707",
