@@ -38,5 +38,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to replace existing content with a form specifically for node operator signup info and stake submission. The AI acknowledged this request and confirmed that a form would be created for these purposes. Additionally, the AI sought further clarification by asking the user to describe the project in more detail.\nAI: Definitely, I'll work on adding pink glassmorphism Tailwind styles.\nUser: beuatify with pink glassmorphism taillwind styles\nAI: Alright, I'll add a background to the component with a pink generated image of a nebula.\nUser: add a background to this component of a pink generated image of a nebula\nThis is the user's current request of changes to be made: restyle the form to a clean shades of pink with nice styling and details "
+    },
+    {
+        "level": 1,
+        "task_description": "\n        You previously did not make a code change correctly.\n        You now have one more chance to complete the user's previous request. This is your last chance to make the code change correctly.\n        This is the user's original request: that didnt work. do it again\n        This is the current message they have sent: that didnt work. do it again\n        This is the HTML element ID of the component to be fixed: \n        This is the file name where the component resides: echarts_bar_chart_1723756644\n        \n        Instructions : Now, make sure you implement the user's request very carefully.\n        "
     }
 ]
