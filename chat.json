@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Noted, we'll work on enhancing the form with node details and multiple token options for staking.",
+        "message_id": "guest16082024184954",
+        "timestamp": "16082024184954",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make the form more detailed and include info about the node they are onbaording and have vearious curriences tokens availble to choose when stkaing",
         "message_id": "guest16082024184954",
