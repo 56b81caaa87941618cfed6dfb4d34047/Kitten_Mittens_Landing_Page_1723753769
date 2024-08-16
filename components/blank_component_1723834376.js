@@ -16,9 +16,44 @@ Vue.component("blank_component_1723834376", {
         <div>
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-            <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
-                <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+            <section id="node-operator-dashboard" class="bg-pink-900 text-white flex-1">
+                <div id="dashboard-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
+                    <div class="grid grid-cols-2 gap-8">
+                        <div class="flex-1 bg-pink-800 rounded-lg shadow-lg p-6">
+                            <h2 class="text-2xl font-bold mb-4">Staking Overview</h2>
+                            <div class="grid grid-cols-2 gap-4">
+                                <div class="bg-pink-700 rounded-md p-4">
+                                    <p class="text-lg font-semibold">Total Staked</p>
+                                    <p class="text-3xl font-bold">1,000,000 ETH</p>
+                                </div>
+                                <div class="bg-pink-700 rounded-md p-4">
+                                    <p class="text-lg font-semibold">Validators</p>
+                                    <p class="text-3xl font-bold">32,000</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex-1 bg-pink-800 rounded-lg shadow-lg p-6">
+                            <h2 class="text-2xl font-bold mb-4">Slashing Statistics</h2>
+                            <div class="grid grid-cols-2 gap-4">
+                                <div class="bg-pink-700 rounded-md p-4">
+                                    <p class="text-lg font-semibold">Slashed Validators</p>
+                                    <p class="text-3xl font-bold">12</p>
+                                </div>
+                                <div class="bg-pink-700 rounded-md p-4">
+                                    <p class="text-lg font-semibold">Total Slashed</p>
+                                    <p class="text-3xl font-bold">384 ETH</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-8 bg-pink-800 rounded-lg shadow-lg p-6">
+                        <h2 class="text-2xl font-bold mb-4">Recent Activity</h2>
+                        <ul class="space-y-2">
+                            <li class="bg-pink-700 rounded-md p-3">New validator activated</li>
+                            <li class="bg-pink-700 rounded-md p-3">Rewards distributed</li>
+                            <li class="bg-pink-700 rounded-md p-3">Slashing event detected</li>
+                        </ul>
+                    </div>
                 </div>
             </section>  
         </div>          
