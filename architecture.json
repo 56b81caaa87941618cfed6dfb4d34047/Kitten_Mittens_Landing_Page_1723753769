@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "make the form more detailed and include info about the node they are onbaording and have vearious curriences tokens availble to choose when stkaing"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to replace existing content with a form specifically for node operator signup info and stake submission. The AI acknowledged this request and confirmed that a form would be created for these purposes. Additionally, the AI sought further clarification by asking the user to describe the project in more detail.\nAI: Definitely, I'll work on adding pink glassmorphism Tailwind styles.\nUser: beuatify with pink glassmorphism taillwind styles\nAI: Alright, I'll add a background to the component with a pink generated image of a nebula.\nUser: add a background to this component of a pink generated image of a nebula\nThis is the user's current request of changes to be made: restyle the form to a clean shades of pink with nice styling and details "
     }
 ]
