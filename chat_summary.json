@@ -42,5 +42,11 @@
         "content": "Alright, I'll add a background to the component with a pink generated image of a nebula.",
         "timestamp": "16082024184756",
         "message_id": "guest16082024184756"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the nebula image to have a realistic appearance or a more abstract, artistic interpretation?\", \"option1\": \"Realistic appearance\", \"option2\": \"Abstract, artistic interpretation\"}, {\"question 2\": \"Should the nebula background cover the entire component area or be framed within certain margins?\", \"option1\": \"Cover the entire component\", \"option2\": \"Framed within certain margins\"}], \"input_token_count\": 268, \"output_token_count\": 98, \"time_taken\": \"0:00:02.094643\"}",
+        "timestamp": "16082024184758",
+        "message_id": "guest16082024184756"
     }
 ]
