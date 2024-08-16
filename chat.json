@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the form to request specific types of node onboarding information from the user?\", \"option1\": \"Yes, include fields for hardware specs and bandwidth requirements.\", \"option2\": \"Yes, include fields for the node's geographical location and uptime guarantee.\"}, {\"question 2\": \"How would you like the various currency tokens to be presented for users when selecting their staking option?\", \"option1\": \"List all available tokens in a drop-down menu.\", \"option2\": \"Allow users to search and select tokens from a searchable drop-down list.\"}], \"input_token_count\": 286, \"output_token_count\": 127, \"time_taken\": \"0:00:02.944687\"}",
+        "message_id": "guest16082024184954",
+        "timestamp": "16082024184957",
+        "component_file_name": "echarts_bar_chart_1723756644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, we'll work on enhancing the form with node details and multiple token options for staking.",
         "message_id": "guest16082024184954",
