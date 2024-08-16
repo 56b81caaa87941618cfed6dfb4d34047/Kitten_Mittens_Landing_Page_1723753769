@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged. We will create a form for node operator signup and stake submission.",
+        "message_id": "guest16082024184707",
+        "timestamp": "16082024184707",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace all this content with a form for submitted node operator signup info and stake",
         "message_id": "guest16082024184707",
