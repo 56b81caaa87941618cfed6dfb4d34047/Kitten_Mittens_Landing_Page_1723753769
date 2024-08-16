@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dropdown menu for selecting the node for onboarding\", \"checked\": true}, {\"feature\": \"Incorporate a multi-currency token selection dropdown in the staking form\", \"checked\": true}, {\"feature\": \"Integrate an information tooltip for each node detailing its benefits and requirements\", \"checked\": false}, {\"feature\": \"Embed a dynamic exchange rate calculator for selected currencies to display potential staking rewards\", \"checked\": false}, {\"feature\": \"Include a field for users to input custom staking amounts with real-time calculation of expected return\", \"checked\": false}, {\"feature\": \"Add a FAQ section related to nodes, currencies, and staking procedures for user assistance\", \"checked\": false}], \"input_token_count\": 240, \"output_token_count\": 150, \"time_taken\": \"0:00:03.671389\"}",
+        "message_id": "guest16082024184954",
+        "timestamp": "16082024184958",
+        "component_file_name": "echarts_bar_chart_1723756644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the form to request specific types of node onboarding information from the user?\", \"option1\": \"Yes, include fields for hardware specs and bandwidth requirements.\", \"option2\": \"Yes, include fields for the node's geographical location and uptime guarantee.\"}, {\"question 2\": \"How would you like the various currency tokens to be presented for users when selecting their staking option?\", \"option1\": \"List all available tokens in a drop-down menu.\", \"option2\": \"Allow users to search and select tokens from a searchable drop-down list.\"}], \"input_token_count\": 286, \"output_token_count\": 127, \"time_taken\": \"0:00:02.944687\"}",
         "message_id": "guest16082024184954",
