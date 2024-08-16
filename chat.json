@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a subtle or a more pronounced glassmorphism effect for the pink color scheme?\", \"option1\": \"Subtle effect with light transparency.\", \"option2\": \"Pronounced effect with higher transparency and blur.\"}, {\"question 2\": \"Should the pink glassmorphism style be applied universally across the entire landing page or focused on specific elements?\", \"option1\": \"Apply universally across the entire landing page.\", \"option2\": \"Focus on specific elements like buttons, headers, and cards.\"}], \"input_token_count\": 265, \"output_token_count\": 117, \"time_taken\": \"0:00:03.505946\"}",
+        "message_id": "guest16082024184823",
+        "timestamp": "16082024184827",
+        "component_file_name": "echarts_bar_chart_1723756644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Definitely, I'll work on adding pink glassmorphism Tailwind styles.",
         "message_id": "guest16082024184823",
