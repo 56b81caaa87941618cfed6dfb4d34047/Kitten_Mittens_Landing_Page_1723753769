@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a light pink shade for the background with white font to ensure readability, or are you looking for a darker shade of pink for contrast?\", \"option1\": \"Light pink background with white font\", \"option2\": \"Darker pink contrast with white font\"}, {\"question 2\": \"For the placeholder node operator dashboard, do you want the placeholder data to simulate real-time data changes or should it remain static?\", \"option1\": \"Simulate real-time changes\", \"option2\": \"Remain static\"}], \"input_token_count\": 289, \"output_token_count\": 120, \"time_taken\": \"0:00:02.698448\"}",
+        "message_id": "guest16082024185400",
+        "timestamp": "16082024185403",
+        "component_file_name": "blank_component_1723834376",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'll design a node operator dashboard with staking and slashing data using white font, shades of pink, borders, shadows, beveled edges, and following UI best practices.",
         "message_id": "guest16082024185400",
