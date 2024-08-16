@@ -6,5 +6,11 @@
         "timestamp": "1723753771",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "replace all this content with a form for submitted node operator signup info and stake",
+        "timestamp": "16082024184707",
+        "message_id": "guest16082024184707"
     }
 ]
