@@ -42,5 +42,9 @@
     {
         "level": 1,
         "task_description": "\n        You previously did not make a code change correctly.\n        You now have one more chance to complete the user's previous request. This is your last chance to make the code change correctly.\n        This is the user's original request: that didnt work. do it again\n        This is the current message they have sent: that didnt work. do it again\n        This is the HTML element ID of the component to be fixed: \n        This is the file name where the component resides: echarts_bar_chart_1723756644\n        \n        Instructions : Now, make sure you implement the user's request very carefully.\n        "
+    },
+    {
+        "level": 1,
+        "task_description": "restyle with white font and pink backgrounds and shadows and nice UI best practices "
     }
 ]
