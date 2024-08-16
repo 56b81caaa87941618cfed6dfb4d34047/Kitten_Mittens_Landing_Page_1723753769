@@ -50,5 +50,9 @@
     {
         "level": 1,
         "task_description": "restyle with white font and pink backgrounds and shadows and nice UI best practices "
+    },
+    {
+        "level": 1,
+        "task_description": "use white font and build a placeholder node operator dashboard with placeholder data about staking and slashing. shades of pink, borders, shadows, beveled edges and best practices for UI "
     }
 ]
