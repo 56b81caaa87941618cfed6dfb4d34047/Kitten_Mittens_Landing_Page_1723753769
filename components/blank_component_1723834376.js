@@ -23,12 +23,12 @@ Vue.component("blank_component_1723834376", {
                             <h2 class="text-2xl font-bold mb-4">Staking Overview</h2>
                             <div class="grid grid-cols-2 gap-4">
                                 <div class="bg-pink-700 rounded-md p-4">
-                                    <p class="text-lg font-semibold">Total Staked</p>
-                                    <p class="text-3xl font-bold">1,000,000 ETH</p>
+                                    <p class="text-sm font-semibold">Total Staked</p>
+                                    <p class="text-xl font-bold">1,000,000 ETH</p>
                                 </div>
                                 <div class="bg-pink-700 rounded-md p-4">
-                                    <p class="text-lg font-semibold">Validators</p>
-                                    <p class="text-3xl font-bold">32,000</p>
+                                    <p class="text-sm font-semibold">Validators</p>
+                                    <p class="text-xl font-bold">32,000</p>
                                 </div>
                             </div>
                         </div>
@@ -36,12 +36,12 @@ Vue.component("blank_component_1723834376", {
                             <h2 class="text-2xl font-bold mb-4">Slashing Statistics</h2>
                             <div class="grid grid-cols-2 gap-4">
                                 <div class="bg-pink-700 rounded-md p-4">
-                                    <p class="text-lg font-semibold">Slashed Validators</p>
-                                    <p class="text-3xl font-bold">12</p>
+                                    <p class="text-sm font-semibold">Slashed Validators</p>
+                                    <p class="text-xl font-bold">12</p>
                                 </div>
                                 <div class="bg-pink-700 rounded-md p-4">
-                                    <p class="text-lg font-semibold">Total Slashed</p>
-                                    <p class="text-3xl font-bold">384 ETH</p>
+                                    <p class="text-sm font-semibold">Total Slashed</p>
+                                    <p class="text-xl font-bold">384 ETH</p>
                                 </div>
                             </div>
                         </div>
@@ -49,9 +49,9 @@ Vue.component("blank_component_1723834376", {
                     <div class="mt-8 bg-pink-800 rounded-lg shadow-lg p-6">
                         <h2 class="text-2xl font-bold mb-4">Recent Activity</h2>
                         <ul class="space-y-2">
-                            <li class="bg-pink-700 rounded-md p-3">New validator activated</li>
-                            <li class="bg-pink-700 rounded-md p-3">Rewards distributed</li>
-                            <li class="bg-pink-700 rounded-md p-3">Slashing event detected</li>
+                            <li class="bg-pink-700 rounded-md p-3 text-sm">New validator activated</li>
+                            <li class="bg-pink-700 rounded-md p-3 text-sm">Rewards distributed</li>
+                            <li class="bg-pink-700 rounded-md p-3 text-sm">Slashing event detected</li>
                         </ul>
                     </div>
                 </div>
