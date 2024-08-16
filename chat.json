@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "that didnt work. do it again",
+        "message_id": "guest16082024185101",
+        "timestamp": "16082024185101",
+        "component_file_name": "echarts_bar_chart_1723756644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the form fields to have a uniform pink shade or varying shades of pink for different sections?\", \"option1\": \"Uniform pink shade for all fields\", \"option2\": \"Varying shades of pink for different sections\"}, {\"question 2\": \"Do you prefer a minimalist design with fewer details or a more elaborate design with decorative elements?\", \"option1\": \"Minimalist design with fewer details\", \"option2\": \"Elaborate design with decorative elements\"}], \"input_token_count\": 426, \"output_token_count\": 111, \"time_taken\": \"0:00:03.261836\"}",
         "message_id": "guest16082024185031",
