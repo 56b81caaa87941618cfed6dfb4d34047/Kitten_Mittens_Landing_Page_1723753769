@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you need to include in the node operator signup form?\", \"option1\": \"Basic contact information (e.g., name, email, phone number)\", \"option2\": \"Detailed technical information (e.g., server specs, network speed)\"}, {\"question 2\": \"How would you like the staking process to be integrated within the form?\", \"option1\": \"A simple form submission followed by manual review\", \"option2\": \"An automated system that verifies node capacity and allocates stakes immediately\"}], \"input_token_count\": 268, \"output_token_count\": 119, \"time_taken\": \"0:00:03.918695\"}",
         "timestamp": "16082024184711",
         "message_id": "guest16082024184707"
+    },
+    {
+        "role": "user",
+        "content": "add a background to this component of a pink generated image of a nebula",
+        "timestamp": "16082024184756",
+        "message_id": "guest16082024184756"
     }
 ]
