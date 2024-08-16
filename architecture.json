@@ -62,5 +62,9 @@
     {
         "level": 1,
         "task_description": "make the font smaller to fit a 300px wide container "
+    },
+    {
+        "level": 1,
+        "task_description": "make the font smaller to fit a 300px wide container "
     }
 ]
